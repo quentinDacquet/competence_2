@@ -269,6 +269,7 @@ main {
 
   .publi_fav {
     height: 50vh;
+    background: white;
   }
 
   #fav_like {
@@ -277,5 +278,15 @@ main {
 
   #info_fav {
     margin-top: 10px;
+  }
+
+  #titre_fav {
+    font-size: 0.7em;
+    background-color: rgba(254, 223, 184, 1);
+  }
+
+  #pres_fav h2 {
+    font-size: 0.7em;
+    background-color: rgba(254, 223, 184, 1);
   }
 }
